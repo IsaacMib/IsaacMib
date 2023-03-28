@@ -1,17 +1,25 @@
-Isaac Bezerra de Menezes
+<h2> Olá, meu nome é Isaac!</h2>
+<img align='right' src="https://i.ibb.co/GJTm4gW/ava.png" width="230">
+<p><em>Estudante de Ciência da Computação na Faculdade Internacional da Paraíba (FPB)
+<br>Tecnóloga em Design Gráfico
+</em></p>
+
+
+### Um pouco sobre mim...  
+
+```javascript
+Amanda Magalhães
 
   Formação Acadêmica:
               
-               Análise e Desenvolvimento de Sistemas: 2022 - Em andamento;
-              // Faculdade Estácio
               Ciência da Computação: 2023 - Em andamento;
               // Faculdade Internacional da Paraíba (FPB)
               
-              Engenharia da Computação: 2023 - Em andamento;
-              // Faculdade Federal da Paraíba (UFPB)
+              Desing Gráfico:        2021 - 2022;
+              // Faculdade Internacional da Paraíba (FPB)
 
   Aprendendo: 
-              Liguagens de programação: [Java, Python, HTML, C++];
+              Liguagens de programação: [Java, Python];
   
   Conhecimentos:
   
@@ -25,13 +33,15 @@ Isaac Bezerra de Menezes
               Música;
               Programação;
               Tecnologia;
-              Dança;
-              Culinaria;
-                
+              UI & UX Design;
+  
   Cursos:
   
   Idiomas:
-              Inglês Fluente;
+              Inglês intermediário;
               
   [ Perfil em construção ]
   
+```
+
+<em><b>"It is our choices, Harry, that show what we truly are, far more than our abilities"― Albus Dumbledore</b></em>
