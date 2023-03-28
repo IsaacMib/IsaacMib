@@ -1,16 +1,36 @@
-### Hi there 👋
+Isaac Bezerra de Menezes
 
-<!--
-**IsaacMib/IsaacMib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Formação Acadêmica:
+              
+              Análise e Desenvolvimento de Sistemas: 2022 - Em andamento;
+              // Faculdade Estácio
+              Ciência da Computação: 2023 - Em andamento;
+              // Faculdade Internacional da Paraíba (FPB)
+              
+              Engenharia da Computação: 2023 - Em andamento;
+              // Faculdade Federal da Paraíba (UFPB)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Aprendendo: 
+              Linguagens de programação: [Java, Python, HTML, C++];
+  
+  Conhecimentos:
+  
+  Interesses:
+              Artes;
+              Animações;
+              Cinema;
+              Jogos Digitais;
+              Línguas Estrangeiras;
+              Livros;
+              Música;
+              Programação;
+              Tecnologia;
+              Dança;
+              Cozinhar;
+  
+  Cursos:
+  
+  Idiomas:
+              Inglês Fluente;
+              
+  [ Perfil em construção ]
