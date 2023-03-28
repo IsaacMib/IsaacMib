@@ -12,6 +12,7 @@ Isaac Bezerra de Menezes
                 
               Análise e Desenvolvimento de Sistemas: 2022 - Em andamento;
               // Faculdade Estácio
+              
               Ciência da Computação: 2023 - Em andamento;
               // Faculdade Internacional da Paraíba (FPB)
               
