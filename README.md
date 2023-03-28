@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é Isaac!</h2>
-<img align='right' src="https://ibb.co/TcnXZKb">
+<img align='right' src="https://ibb.co/NsPQ93W">
 <p><em>Estudante de Ciência da Computação na Faculdade Internacional da Paraíba (FPB)</em></p>
 
 
