@@ -2,7 +2,7 @@ Isaac Bezerra de Menezes
 
   Formação Acadêmica:
               
-              Análise e Desenvolvimento de Sistemas: 2022 - Em andamento;
+               Análise e Desenvolvimento de Sistemas: 2022 - Em andamento;
               // Faculdade Estácio
               Ciência da Computação: 2023 - Em andamento;
               // Faculdade Internacional da Paraíba (FPB)
@@ -11,7 +11,7 @@ Isaac Bezerra de Menezes
               // Faculdade Federal da Paraíba (UFPB)
 
   Aprendendo: 
-              Linguagens de programação: [Java, Python, HTML, C++];
+              Liguagens de programação: [Java, Python, HTML, C++];
   
   Conhecimentos:
   
@@ -20,17 +20,18 @@ Isaac Bezerra de Menezes
               Animações;
               Cinema;
               Jogos Digitais;
-              Línguas Estrangeiras;
+              Linguas Estrangeiras;
               Livros;
               Música;
               Programação;
               Tecnologia;
               Dança;
-              Cozinhar;
-  
+              Culinaria;
+                
   Cursos:
   
   Idiomas:
               Inglês Fluente;
               
   [ Perfil em construção ]
+  
