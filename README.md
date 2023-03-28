@@ -1,25 +1,25 @@
 <h2> Olá, meu nome é Isaac!</h2>
-<img align='right' src="https://i.ibb.co/GJTm4gW/ava.png" width="230">
-<p><em>Estudante de Ciência da Computação na Faculdade Internacional da Paraíba (FPB)
-<br>Tecnóloga em Design Gráfico
-</em></p>
+<img align='right' src="https://ibb.co/TcnXZKb" width="230">
+<p><em>Estudante de Ciência da Computação na Faculdade Internacional da Paraíba (FPB)</em></p>
 
 
 ### Um pouco sobre mim...  
 
 ```javascript
-Amanda Magalhães
+Isaac Bezerra de Menezes
 
   Formação Acadêmica:
-              
+                
+              Análise e Desenvolvimento de Sistemas: 2022 - Em andamento;
+              // Faculdade Estácio
               Ciência da Computação: 2023 - Em andamento;
               // Faculdade Internacional da Paraíba (FPB)
               
-              Desing Gráfico:        2021 - 2022;
-              // Faculdade Internacional da Paraíba (FPB)
+              Engenharia da Computação: 2023 - Em andamento;
+              // Faculdade Federal da Paraíba (UFPB)
 
   Aprendendo: 
-              Liguagens de programação: [Java, Python];
+              Liguagens de programação: [Java, Python, HTML, C++];
   
   Conhecimentos:
   
@@ -33,12 +33,13 @@ Amanda Magalhães
               Música;
               Programação;
               Tecnologia;
-              UI & UX Design;
+              Culinaria;
+              Dança;
   
   Cursos:
   
   Idiomas:
-              Inglês intermediário;
+              Inglês Fluente;
               
   [ Perfil em construção ]
   
